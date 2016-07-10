@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 /*
@@ -7,6 +8,9 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 >>>>>>> 0e86888cf484d6fe60ffc66c82232ba6edca48ef
+=======
+
+>>>>>>> abb00b4955c2a89705e0c540d432a1629a5a8c04
 
 (function($) {
 
